@@ -191,5 +191,3 @@ WorkoutApp/
 ### **Project Link**
 
 [https://github.com/GuntukaRishika/GenAI-GymFitnessAnalysis](https://github.com/GuntukaRishika/GenAI-GymFitnessAnalysis)
-
-Just tell me — **Do you want to upgrade your README further?**
