@@ -61,7 +61,7 @@ Install before starting:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/GuntukaRishika/GenAi-Gym-FitnessAnalysis.git
+git clone https://github.com/GuntukaRishika/GenAI-GymFitnessAnalysis.git
 ```
 
 ### Install Dependencies
@@ -191,3 +191,4 @@ WorkoutApp/
 ### **Project Link**
 
 [https://github.com/GuntukaRishika/GenAI-GymFitnessAnalysis](https://github.com/GuntukaRishika/GenAI-GymFitnessAnalysis)
+
